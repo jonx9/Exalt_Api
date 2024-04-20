@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mnFumqPZTWvuLzYB1K68mT+/ydajPsmMYRhxwcfBxnM=",
+  "Source": "Exalt.Api",
+  "BasePath": "_content/Exalt.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

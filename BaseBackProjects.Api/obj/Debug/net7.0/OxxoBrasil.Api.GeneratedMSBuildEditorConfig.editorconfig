@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OxxoBrasil.Api
+build_property.RootNamespace = OxxoBrasil.Api
+build_property.ProjectDir = D:\oxxobrasil.net7 (3)\oxxobrasil.net7\BaseBackProjects.Api\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\oxxobrasil.net7 (3)\oxxobrasil.net7\BaseBackProjects.Api
+build_property._RazorSourceGeneratorDebug = 
